@@ -1,7 +1,7 @@
 import destinos from "@/lib/destinos";
 import styles from "./page.module.css";
 
-export default function DestinoPage({ params }: { params: { id: string } }) {
+export default function DestinoId({ params }: { params: { id: string } }) {
   const destino = destinos.find((d) => d.id === Number(params.id));
   if (!destino) return <div>Destino não encontrado</div>;
 
