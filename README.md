@@ -1,3 +1,10 @@
+<h1>NextJs + Typescript e Styled Components</h1>
+<p>Exercício de finalização do módulo inicial Next. </p>
+<p>Utilização de rotas dinâmicas através de Link, componentização e estilização com styled components.</p>
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
